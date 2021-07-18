@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+body{
+  background-color: #1F2833;
+}
+
+.title{
+  padding-top: 40px;
+  color: white;
+}
+
+.game_button{
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#player_choice{
+  color: white;
+}
+
+#ai_choice{
+  color:white;
+}
